@@ -9,3 +9,7 @@ Anyways, first steps:
 
 - Clone Repository
 - Install PHP for Windows, Mac, or Linux if you do not have it already on your computer
+
+02/02/2022
+
+I was able to get XAMPP running on my computer, but there is no way to run this project with the config files that are gitignored out of the project files. I wonder if I could build a Github Action to build the config files once the project is cloned off Github. I'll have to do some research and review the original project to see if I can do that. 
