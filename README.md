@@ -1,15 +1,6 @@
 # sp-web120
 WEB120 portal webpage for spring 2018
 
-01/31/2022
+02/03/2022
 
-As part of my Github Cleanup, I decided to go over some old projects and see if I could restart them and get them working on my PC. I cloned this repository and got PHP installed on my PC, but it's going to take a little work to see if I can recreate the necessary config files in order to run the project on a local browser. It will be a fun little challenge. 
-
-Anyways, first steps:
-
-- Clone Repository
-- Install PHP for Windows, Mac, or Linux if you do not have it already on your computer
-
-02/02/2022
-
-I was able to get XAMPP running on my computer, but there is no way to run this project with the config files that are gitignored out of the project files. I wonder if I could build a Github Action to build the config files once the project is cloned off Github. I'll have to do some research and review the original project to see if I can do that. 
+This was a portal website for a class that I took at Seattle Central College. It is a basic navbar with some small essays about wireframes and understanding your client. It has an email configuration. I wanted to see if I could recreate the config files necessary so that anyone could clone it off Github and run it, but it's way too elaborate. In general, the config files included a Recaptcha and Email keys, as well as some more PHP that made the portal website work. I'll leave the code out there, since it's likely sound, but there's no sincere way for anyone to clone this project and run it locally, but I do have the temperature converter program out there if you're very interested on getting a PHP project to run locally on your Windows machine. 
