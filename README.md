@@ -1,4 +1,4 @@
-# sp-web120
+# SP-WEB120
 WEB120 Portal Webpage for Spring 2018
 
 02/03/2022
